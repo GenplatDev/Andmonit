@@ -7,6 +7,7 @@ COMO USAR:
 Ve a la carpeta Andmonit y ve tanto a Andmonit.sh como a android.rc y donde dice TU_IP borralo y pon tu ip ahi, si no sabes tu ip usa ifconfig en la terminal o ve a https://www.cualesmiip.com/ para verla, luego ejecutalo con Andmonit.sh y luego enviale a la victima la apk que se creara en la carpeta de Andmonit, cuando en la terminal aparezca un mensaje pon session -i 1 y ya estaras conectado, luego por help y veras todos los posibles comandos, disfrutalo
 
 Donaciones:
+
 Bitcoind: bc1q42zdhhvpqlwu3kymyswl8mjavt9f5rc7x9e72j
 
 Etherium: 0x593329d680c712d8467be9e0c6020a639bda5c82
