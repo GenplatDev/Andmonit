@@ -8,4 +8,5 @@ Ve a la carpeta Andmonit y ve tanto a Andmonit.sh como a android.rc y donde dice
 
 Donaciones:
 Bitcoind: bc1q42zdhhvpqlwu3kymyswl8mjavt9f5rc7x9e72j
+
 Etherium: 0x593329d680c712d8467be9e0c6020a639bda5c82
