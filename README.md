@@ -13,3 +13,7 @@ Donaciones:
 Bitcoind: 3NR351cSck7Ub1v3aAhLwH8AKt8uQPNzrK
 
 Etherium: 0x593329d680c712d8467be9e0c6020a639bda5c82
+
+XMR: 82tLLnBe3DPRDMtGCH1ejjB5M6G7TT5gYFGfmvZ7RYACZZV7Wsj7UX3UoPczNhXx8QMM3jumSyhnoRfao2wAykbWQPhssi1
+
+Litecoin: LhfksTHkmcMUf5Fkddse2t5TtLXnPVTEF2
