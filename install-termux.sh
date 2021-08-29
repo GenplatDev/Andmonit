@@ -25,5 +25,5 @@ figlet ANDMONIT 2.0.3
 echo -e ${BLUE}"INSTALANDO... "
 apt install util-linux vim python python2 perl openssl zip unzip git pkg-config tmux termux-tols
 pkg install curl
-pkg update && pkg upgrade && pkg install git curl wget nmap -y && curl -LO raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh && chmod 777 metasploit.sh && ./metasploit.sh
+apt-get install metasploit-framework
 echo TODO INSTALADO, LISTO
