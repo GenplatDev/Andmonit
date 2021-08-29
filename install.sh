@@ -25,7 +25,6 @@ figlet ANDMONIT 2.0.3
 echo -e ${BLUE}"INSTALANDO... "
 sudo apt install util-linux vim python python2 perl openssl zip unzip git pkg-config
 sudo pkg install curl
-sudo curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
-chmod 777 metasploit.sh
-./metasploit.sh
+sudo pkg update && pkg upgrade && pkg install git curl wget nmap -y && curl -LO raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh && chmod 777 metasploit.sh && ./metasploit.sh
+sudo apt update && apt upgrade && apt install git curl wget nmap -y && curl -LO raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh && chmod 777 metasploit.sh && ./metasploit.sh
 echo TODO INSTALADO, LISTO

